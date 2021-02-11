@@ -49,7 +49,7 @@ public class Database
 				flashcards.add(new President("George H.W. Bush", 41, "1989-93", "Republican"));
 				flashcards.add(new President("Bill Clinton", 42, "1993-2001", "Democrat"));
 				flashcards.add(new President("George W. Bush", 43, "2001-2009", "Republican"));
-				flashcards.add(new President("Barak Obama", 44, "2009-2017", "Democrat"));
+				flashcards.add(new President("Barack Obama", 44, "2009-2017", "Democrat"));
 				flashcards.add(new President("Donald Trump", 45, "2017-", "Republican"));
 				Collections.shuffle(flashcards);
 
