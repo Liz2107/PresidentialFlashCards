@@ -75,7 +75,8 @@ public class CreateYourOwnCardTwo
 									}
 								else
 									{
-										System.out.println("Well that was a waste of time! Have a good day!");
+										System.out.println("Well that was a waste of time. Have a good day.");
+										System.out.println("Remember, you can access your cards in the txt file on this program.");
 										creatingCards = false;
 									}
 							}

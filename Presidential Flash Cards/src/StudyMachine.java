@@ -59,17 +59,17 @@ public class StudyMachine
 				int userInput = userIntInput.nextInt();
 				if(userInput == 1)
 					{
-						System.out.println("You have chosen option 1: The President Party Quiz! You must not be very motivated because this is quite easy. Good luck anyways!");
+						System.out.println("You have chosen option 1: The President Party Quiz. This is rather easy, so I'll be disappointed if you get a terrible score.");
 						Options.optionOne();
 					}
 				else if(userInput == 2)
 					{
-						System.out.println("You have chosen option 2: The Presidential Years Challenge! You must be an idiot, because this is nearly impossible! I'm predicting a 50%.");	
+						System.out.println("You have chosen option 2: The Presidential Years Challenge. This is nearly impossible to ace. Good luck.");	
 						Options.optionTwo();
 					}
 				else if(userInput == 3)
 					{
-						System.out.println("You have chosen option 3: The Name that President Test! I still don't know what you're doing here, but good luck with that upcoming test!");
+						System.out.println("You have chosen option 3: The Name that President Test. Good luck.");
 						Options.optionThree();
 					}
 				else
